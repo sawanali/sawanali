@@ -1,16 +1,40 @@
-## Hi there 👋
 
-<!--
-**sawanali/sawanali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Sawan 👋
+Clinical SAS Programmer
 
-Here are some ideas to get you started:
+PhD in Translational & Clinical Medicine with a background in clinical research, statistical analysis, and evidence generation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Certifications
+
+- SAS Certified Professional: Clinical Trials Programming Using SAS 9.4
+- SAS Certified Specialist: Base Programming Using SAS 9.4
+
+Clinical SAS & CDISC
+
+- SDTM / SDTMIG
+- ADaM / ADaMIG
+- SDTM domain development and mapping
+- ADaM dataset development
+- Clinical trial data processing
+- TLF generation
+- SAS SQL and Macro programming
+- Data validation and quality checks
+
+Programming
+
+- SAS
+- R
+- Python
+
+Featured Project
+End-to-End Clinical Trial Programming: Raw Data → SDTM → ADaM → TLFs
+
+A practical clinical SAS programming portfolio demonstrating clinical trial data processing, CDISC-compliant dataset development, validation, and TLF generation using SAS.
+
+Background
+
+My research experience includes clinical and observational research, statistical analysis, systematic reviews and meta-analyses. I am currently transitioning into the industry Clinical SAS programmer.
+
+📍 Based in Italy
+
+Open to Clinical SAS Programmer / Statistical Programmer opportunities
