@@ -1,5 +1,5 @@
 
-Hi, I'm Sawan
+Hi, I'm Sawan.
 Clinical SAS Programmer
 
 PhD in Translational & Clinical Medicine with a background in clinical research, statistical analysis, and evidence generation.
